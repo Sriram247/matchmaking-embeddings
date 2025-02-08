@@ -1,0 +1,10 @@
+umap-learn
+scikit-learn
+scipy
+sentence-transformers
+matplotlib
+pyvis
+pandas
+numpy
+seaborn
+branca
